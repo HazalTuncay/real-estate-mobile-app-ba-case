@@ -10,6 +10,8 @@ Proje; müşteri, mülk, sözleşme, satış/kiralama işlemleri ve satıcı tal
 
 Bu projenin amacı, emlak ofisi çalışanlarının müşterileri, mülkleri ve satış/kiralama süreçlerini kontrollü ve izlenebilir bir şekilde yönetebileceği bir mobil uygulamanın iş analizi sürecini uçtan uca tasarlamak ve dokümante etmektir.
 
+Proje kapsamı ve üst seviye özet bilgiler 01_Project_Overview klasörü altında yer almaktadır.
+
 ---
 
 ## Kapsam Tanımı

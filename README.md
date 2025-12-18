@@ -101,11 +101,12 @@ Bu projenin amacı, emlak ofisi çalışanlarının müşterileri, mülkleri ve 
 
 ## Use Case Tasarımı
 
-Sistem için tanımlanan use case’ler, kullanıcı ve sistem etkileşimlerini detaylı şekilde ele almaktadır.
+Sistem için tanımlanan use case’ler, kullanıcı ve sistem etkileşimlerini ele almaktadır.
 
-Her use case; aktörler, ön koşullar, tetikleyici olay, ana akış, alternatif akışlar, istisna durumları ve son durum koşullarını içerecek şekilde tanımlanmıştır.
+Use case’ler; aktörler, ön koşullar, tetikleyici olay, ana akış, alternatif akışlar, istisna durumları ve son durum koşullarını içerecek şekilde yapılandırılmıştır.
 
----
+Detaylı ana akış, alternatif ve istisna senaryolarını örneklemek amacıyla UC02 detaylandırılmıştır.
+
 
 ## Ekranlar ve Screen Flow
 
